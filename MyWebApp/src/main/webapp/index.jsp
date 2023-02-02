@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	<h2> My First Automated Java Project Build using Maven and Deployed to Tomcat</h2>
   
 </body>
 </html>
