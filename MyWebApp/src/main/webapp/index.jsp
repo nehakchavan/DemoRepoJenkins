@@ -7,6 +7,7 @@
 <body>
 <h2> 
 	<h2> My First Automated Java Project Build using Maven and Deployed to Tomcat</h2>
+	<h1>Java</h1>
   
 </body>
 </html>
